@@ -111,7 +111,7 @@ HSB:294,73,100
 
 
 ### 3. Extract Theme
-**Image used:** ![Extract Theme](./images/image1.jpeg)
+**Image used:** ![Extract Theme](./images/image1.jpg)
 - **Colorful palette:** HEXs: `#020E26`, `#172601`, `#F2B441`, `#F2884B`, `#BF6550`
 
   ![Colorful](./images/09_extract_colorful.png)
@@ -143,3 +143,4 @@ HSB:294,73,100
 
 
 Отримані знання та навички є корисними для подальшої роботи в UI/UX-дизайні, оскільки правильний підбір кольорів впливає на зручність користування та якість інтерфейсу.
+
